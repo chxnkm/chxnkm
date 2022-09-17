@@ -2,7 +2,7 @@
 
 I’m am a penultimate year computer science student studying at Nanyang Technological University.
 
-I’m interested in Machine Learning as well as the latest advancements in Artifical Intelligence.<br><br>
+I’m interested in Machine Learning as well as the latest advancements in Artifical Intelligence.<br>
 
 Please feel free to browse the repositories on my page!
 
