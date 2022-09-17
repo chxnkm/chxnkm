@@ -1,8 +1,10 @@
 # Hello, I'm Kang Ming!
 
-I’m interested in Machine Learning as well as the latest advancements in Artifical Intelligence.<br><br>
-I’m currently doing a project on Offline Reinforcement Learning under the Undergraduate Research on Campus program in Nanyang Technological University.
+I’m am a penultimate year computer science student studying at Nanyang Technological University.
 
+I’m interested in Machine Learning as well as the latest advancements in Artifical Intelligence.<br><br>
+
+Please feel free to browse the repositories on my page!
 
 ### You can reach me at: chen1401@e.ntu.edu.sg
 
