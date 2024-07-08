@@ -1,6 +1,6 @@
 # Hello, I'm Kang Ming!
 
-I’m am a graduate computer science student from Nanyang Technological University.
+I’m am a computer science graduate from Nanyang Technological University.
 
 I’m interested in Machine Learning as well as the latest advancements in Artifical Intelligence.<br>
 
