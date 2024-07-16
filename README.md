@@ -6,7 +6,7 @@ I’m interested in Machine Learning as well as the latest advancements in Artif
 
 Please feel free to browse the repositories on my page!
 
-### You can reach me at: chen1401@e.ntu.edu.sg or ckangming0@gmail.com
+### You can reach me at: ckangming0@gmail.com or chen1401@e.ntu.edu.sg 
 
 <!---
 chxnkm/chxnkm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
