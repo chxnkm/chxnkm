@@ -6,7 +6,7 @@ I’m interested in Machine Learning as well as the latest advancements in Artif
 
 Please feel free to browse the repositories on my page!
 
-You can view my portfolio at [my portfolio here!](https://chenkm.com)
+You can view my portfolio at [](https://chenkm.com)
 
 ### Alternatively, you can also reach me at: ckangming0@gmail.com or chen1401@e.ntu.edu.sg 
 
